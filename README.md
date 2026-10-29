@@ -47,57 +47,57 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-28 by Central Bank of Iran — 47 rates. Updated 2026-10-29.</summary>
+<summary>Table as text: published 2026-10-29 by Central Bank of Iran — 47 rates. Updated 2026-10-29.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | IRR | reference | 507611 |
-| AFN | IRR | reference | 28702 |
-| AMD | IRR | reference | 5166.58 |
-| AUD | IRR | reference | 1311492 |
-| AZN | IRR | reference | 1096588 |
-| BDT | IRR | reference | 15040.88 |
-| BHD | IRR | reference | 4957979 |
-| BYN | IRR | reference | 632490 |
-| CAD | IRR | reference | 1328056 |
-| CHF | IRR | reference | 2249491 |
-| CNY | IRR | reference | 279620 |
-| DKK | IRR | reference | 277958 |
-| EUR | IRR | reference | 2077548 |
-| GBP | IRR | reference | 2481829 |
-| GEL | IRR | reference | 718453 |
-| HKD | IRR | reference | 237634 |
-| IDR | IRR | reference | 102.805 |
-| INR | IRR | reference | 19617 |
-| IQD | IRR | reference | 1230.31 |
-| JOD | IRR | reference | 2629337 |
-| JPY | IRR | reference | 11808.86 |
-| KRW | IRR | reference | 1405.488 |
-| KWD | IRR | reference | 5991033 |
-| KZT | IRR | reference | 4085.18 |
-| LKR | IRR | reference | 5611 |
-| LYD | IRR | reference | 290378 |
-| MMK | IRR | reference | 888 |
-| MYR | IRR | reference | 456019 |
-| NOK | IRR | reference | 199753 |
-| NPR | IRR | reference | 12254.72 |
-| NZD | IRR | reference | 1061284 |
-| OMR | IRR | reference | 4845635 |
-| PHP | IRR | reference | 29173.02 |
-| PKR | IRR | reference | 6737.02 |
-| QAR | IRR | reference | 512143 |
-| RUB | IRR | reference | 23149 |
-| SAR | IRR | reference | 497120 |
-| SEK | IRR | reference | 187656 |
-| SGD | IRR | reference | 1455529 |
-| SYP | IRR | reference | 15280 |
-| THB | IRR | reference | 55214.45 |
-| TJS | IRR | reference | 202583 |
-| TMT | IRR | reference | 532981 |
-| TRY | IRR | reference | 37442 |
-| USD | IRR | reference | 1864200 |
-| VES | IRR | reference | 2108 |
-| ZAR | IRR | reference | 112321 |
+| AED | IRR | reference | 508626 |
+| AFN | IRR | reference | 28873 |
+| AMD | IRR | reference | 5179.28 |
+| AUD | IRR | reference | 1314352 |
+| AZN | IRR | reference | 1098781 |
+| BDT | IRR | reference | 15056.64 |
+| BHD | IRR | reference | 4967894 |
+| BYN | IRR | reference | 634810 |
+| CAD | IRR | reference | 1330704 |
+| CHF | IRR | reference | 2250118 |
+| CNY | IRR | reference | 280201 |
+| DKK | IRR | reference | 278401 |
+| EUR | IRR | reference | 2080841 |
+| GBP | IRR | reference | 2484633 |
+| GEL | IRR | reference | 720152 |
+| HKD | IRR | reference | 238093 |
+| IDR | IRR | reference | 102.764 |
+| INR | IRR | reference | 19607 |
+| IQD | IRR | reference | 1232.72 |
+| JOD | IRR | reference | 2634595 |
+| JPY | IRR | reference | 11804.31 |
+| KRW | IRR | reference | 1389.976 |
+| KWD | IRR | reference | 5997833 |
+| KZT | IRR | reference | 4103.14 |
+| LKR | IRR | reference | 5621.8 |
+| LYD | IRR | reference | 290441 |
+| MMK | IRR | reference | 890 |
+| MYR | IRR | reference | 458192 |
+| NOK | IRR | reference | 201466 |
+| NPR | IRR | reference | 12248.47 |
+| NZD | IRR | reference | 1049910 |
+| OMR | IRR | reference | 4854244 |
+| PHP | IRR | reference | 29205.89 |
+| PKR | IRR | reference | 6753.26 |
+| QAR | IRR | reference | 513167 |
+| RUB | IRR | reference | 23100 |
+| SAR | IRR | reference | 498114 |
+| SEK | IRR | reference | 188218 |
+| SGD | IRR | reference | 1456101 |
+| SYP | IRR | reference | 15308 |
+| THB | IRR | reference | 55302.68 |
+| TJS | IRR | reference | 202746 |
+| TMT | IRR | reference | 533942 |
+| TRY | IRR | reference | 37480 |
+| USD | IRR | reference | 1867928 |
+| VES | IRR | reference | 2106 |
+| ZAR | IRR | reference | 112042 |
 
 </details>
 
