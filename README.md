@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-29 by Central Bank of Iran — 47 rates. Updated 2026-10-30.</summary>
+<summary>Table as text: published 2026-10-30 by Central Bank of Iran — 47 rates. Updated 2026-10-30.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
