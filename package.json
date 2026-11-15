@@ -1,6 +1,6 @@
 {
   "name": "central-bank-of-iran-exchange-rate",
-  "version": "1.3.30",
+  "version": "1.3.31",
   "description": "Official Central Bank of Iran (Iran) daily exchange rates — 47 currencies vs IRR, history since 2002. Zero-dependency Node.js/TypeScript client.",
   "keywords": [
     "cbir",
@@ -10,6 +10,7 @@
     "iran",
     "exchange-rate",
     "exchange-rates",
+    "exchange-rate-api",
     "exchangerate",
     "exchange rate",
     "exchange rates",
